@@ -1,0 +1,12 @@
+2024-12-04 12:14:55 INFO  ElementsTest:21 - Entered in to intialization init()
+  2024-12-04 12:15:04 INFO  ElementsTest:24 - Executed intialization Successfully 
+  2024-12-04 12:16:42 INFO  ElementsTest:21 - Entered in to intialization init()
+  2024-12-04 12:16:51 INFO  ElementsTest:24 - Executed intialization Successfully 
+  2024-12-04 12:18:02 INFO  ElementsTest:21 - Entered in to intialization init()
+  2024-12-04 12:18:10 INFO  ElementsTest:24 - Executed intialization Successfully 
+  2024-12-04 12:19:45 INFO  ElementsTest:21 - Entered in to intialization init()
+  2024-12-04 12:19:53 INFO  ElementsTest:24 - Executed intialization Successfully 
+  2024-12-04 12:20:58 INFO  ElementsTest:21 - Entered in to intialization init()
+  2024-12-04 12:20:58 ERROR ElementsTest:22 - Error Messsage
+  2024-12-04 12:21:10 INFO  ElementsTest:25 - Executed intialization Successfully 
+  
